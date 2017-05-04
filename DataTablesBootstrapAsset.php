@@ -9,6 +9,8 @@
 namespace qiubao\datatables;
 
 
+use yii\web\AssetBundle;
+
 class DataTablesBootstrapAsset extends AssetBundle {
     public $sourcePath = '@bower/datatables-bootstrap3';
 
