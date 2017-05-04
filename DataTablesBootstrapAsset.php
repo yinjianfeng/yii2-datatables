@@ -22,6 +22,6 @@ class DataTablesBootstrapAsset extends AssetBundle {
 
     public $depends = [
         'yii\web\JqueryAsset',
-        'fedemotta\datatables\DataTablesAsset',
+        'qiubao\datatables\DataTablesAsset',
     ];
 }
