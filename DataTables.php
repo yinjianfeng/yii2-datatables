@@ -10,6 +10,10 @@ namespace qiubao\datatables;
 
 
 use yii\grid\GridView;
+use yii\helpers\Json;
+use yii\helpers\ArrayHelper;
+use yii\helpers\Html;
+
 /**
  * Datatables Yii2 widget
  * @author YinJianFeng
